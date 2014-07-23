@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Basic Android App</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="surprise1_label">Surprise 1</string>
+    <string name="submit_label">Submit</string>
+    <string name="note1_label">Below you will see some message.</string>
+    <string name="name_label">What\'s your name?</string>
+
+</resources>
